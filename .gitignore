@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+google-nq.gz
+model.h5
